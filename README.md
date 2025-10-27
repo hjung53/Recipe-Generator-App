@@ -17,8 +17,7 @@
 
 ### **2) 재료 이미지로 입력 → 메뉴 추천 → 히스토리 저장**
 
-<img src ="![Image](https://github.com/user-attachments/assets/c1475c3a-8ad8-46df-85df-95b710c1ac68)">
-
+![Bulgogi_video](https://github.com/user-attachments/assets/81feab2e-6acf-452e-8ba1-e2c0aa989b5e)
 
 
 ## 1) 사전 준비
