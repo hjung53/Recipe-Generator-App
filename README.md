@@ -66,14 +66,6 @@ streamlit run fridge_recipe_app.py
 python test_rag.py
 ```
 
-## 5) 문제 해결(Troubleshooting)
-
-- `VectorStoreRetriever has no attribute get_relevant_documents`  
-  → 이미 코드에서 **retriever.invoke(query)** 로 수정되어 있습니다.
-- 바코드 인식이 안 되는 경우  
-  → 조명/초점 개선, ZBar 설치 확인. OpenCV fallback이 자동 동작합니다.
-- 이미지 분석이 안 되는 경우  
-  → API 키 확인, 모델 `gpt-4o-mini` 사용 확인.
 
 ## 폴더 구성
 ```
