@@ -17,7 +17,7 @@
 
 ### **2) 재료 이미지로 입력 → 메뉴 추천 → 히스토리 저장**
 
-![Image](https://github.com/user-attachments/assets/144a1eee-ff54-4f62-b7b2-5df5a319e40d)
+![Image](https://github.com/user-attachments/assets/144a1eee-ff54-4f62-b7b2-5df5a319e40d.gif)
 
 
 
