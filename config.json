@@ -1,0 +1,86 @@
+{
+  "app_config": {
+    "title": "냉장고를 부탁해 - AI Recipe Generator",
+    "version": "1.0.0",
+    "description": "Transform your leftovers into delicious meals with AI",
+    "theme": "light"
+  },
+  "ai_config": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 2000,
+    "embedding_model": "text-embedding-3-small"
+  },
+  "features": {
+    "text_input": true,
+    "image_input": true,
+    "barcode_scanner": true,
+    "recipe_history": true,
+    "nutrition_info": true,
+    "substitution_suggestions": true,
+    "leftover_optimization": true
+  },
+  "ui_settings": {
+    "max_ingredients_display": 20,
+    "recipes_per_page": 5,
+    "history_limit": 50,
+    "image_max_size_mb": 10
+  },
+  "recipe_settings": {
+    "min_recipe_recommendations": 3,
+    "max_recipe_recommendations": 5,
+    "prioritize_leftovers": true,
+    "include_nutrition": true,
+    "difficulty_levels": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "default_servings": 2
+  },
+  "categories": {
+    "ingredient_categories": [
+      "vegetables",
+      "proteins",
+      "grains",
+      "dairy",
+      "condiments",
+      "leftovers",
+      "fruits",
+      "beverages"
+    ],
+    "cuisine_types": [
+      "Korean",
+      "Japanese",
+      "Chinese",
+      "Italian",
+      "American",
+      "Fusion",
+      "Thai",
+      "Mexican"
+    ]
+  },
+  "prompts": {
+    "ingredient_detection": "Identify all food items, ingredients, and leftover dishes visible in this image. Include brand names if visible.",
+    "recipe_generation": "Create a creative recipe that minimizes food waste and transforms leftovers into delicious meals.",
+    "substitution": "Suggest practical substitutions using commonly available ingredients.",
+    "nutrition_analysis": "Provide estimated nutritional information including calories, protein, carbs, and fat."
+  },
+  "storage": {
+    "vector_store_path": "recipe_vector_store",
+    "history_file": "recipe_history.json",
+    "user_preferences": "user_prefs.json",
+    "max_cache_size_mb": 100
+  },
+  "api_endpoints": {
+    "openai_base": "https://api.openai.com/v1",
+    "nutrition_api": "https://api.nutritionix.com/v1_1",
+    "barcode_lookup": "https://world.openfoodfacts.org/api/v0/product/"
+  },
+  "limits": {
+    "max_ingredients_per_recipe": 20,
+    "max_instruction_steps": 15,
+    "max_recipe_name_length": 100,
+    "api_rate_limit_per_minute": 60
+  }
+}

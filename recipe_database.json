@@ -1,0 +1,274 @@
+{
+  "recipes": [
+    {
+      "id": "kr_001",
+      "name": "김치볶음밥 (Kimchi Fried Rice)",
+      "description": "A classic Korean dish perfect for using leftover rice and kimchi",
+      "ingredients": [
+        "kimchi",
+        "rice",
+        "eggs",
+        "green onions",
+        "sesame oil",
+        "soy sauce",
+        "gochugaru"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "korean",
+        "quick",
+        "leftover-friendly"
+      ],
+      "difficulty": "easy",
+      "time": "15 minutes",
+      "servings": 2
+    },
+    {
+      "id": "kr_002",
+      "name": "남은 치킨 덮밥 (Leftover Chicken Rice Bowl)",
+      "description": "Transform yesterday's fried chicken into today's delicious meal",
+      "ingredients": [
+        "leftover fried chicken",
+        "rice",
+        "eggs",
+        "onions",
+        "soy sauce",
+        "mirin"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "korean",
+        "fusion",
+        "leftover-transformation"
+      ],
+      "difficulty": "easy",
+      "time": "20 minutes",
+      "servings": 1
+    },
+    {
+      "id": "it_001",
+      "name": "Leftover Pizza Frittata",
+      "description": "Italian-style egg dish using leftover pizza slices",
+      "ingredients": [
+        "leftover pizza",
+        "eggs",
+        "milk",
+        "parmesan cheese",
+        "herbs"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "italian",
+        "breakfast",
+        "creative"
+      ],
+      "difficulty": "easy",
+      "time": "25 minutes",
+      "servings": 2
+    },
+    {
+      "id": "kr_003",
+      "name": "라면 볶음밥 (Ramen Fried Rice)",
+      "description": "Creative fusion using leftover instant ramen",
+      "ingredients": [
+        "leftover ramen",
+        "rice",
+        "eggs",
+        "kimchi",
+        "green onions"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "korean",
+        "fusion",
+        "student-friendly"
+      ],
+      "difficulty": "easy",
+      "time": "15 minutes",
+      "servings": 1
+    },
+    {
+      "id": "kr_004",
+      "name": "부대찌개 (Army Stew)",
+      "description": "Korean fusion stew perfect for using various leftovers",
+      "ingredients": [
+        "spam",
+        "sausage",
+        "ramen noodles",
+        "kimchi",
+        "tofu",
+        "rice cakes",
+        "cheese"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "korean",
+        "stew",
+        "comfort-food"
+      ],
+      "difficulty": "medium",
+      "time": "30 minutes",
+      "servings": 3
+    },
+    {
+      "id": "jp_001",
+      "name": "Oyakodon Remix",
+      "description": "Japanese chicken and egg bowl using leftover chicken",
+      "ingredients": [
+        "leftover chicken",
+        "eggs",
+        "onions",
+        "rice",
+        "dashi",
+        "soy sauce",
+        "mirin"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "japanese",
+        "rice-bowl",
+        "quick"
+      ],
+      "difficulty": "easy",
+      "time": "20 minutes",
+      "servings": 2
+    },
+    {
+      "id": "wt_001",
+      "name": "Kitchen Sink Sandwich",
+      "description": "Use whatever you have to make a gourmet sandwich",
+      "ingredients": [
+        "bread",
+        "any leftover meat",
+        "cheese",
+        "vegetables",
+        "condiments"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "western",
+        "sandwich",
+        "flexible"
+      ],
+      "difficulty": "easy",
+      "time": "10 minutes",
+      "servings": 1
+    },
+    {
+      "id": "kr_005",
+      "name": "계란찜 (Korean Steamed Eggs)",
+      "description": "Fluffy Korean steamed eggs - great side dish for any leftover meal",
+      "ingredients": [
+        "eggs",
+        "water",
+        "salt",
+        "green onions",
+        "shrimp (optional)"
+      ],
+      "suitable_for_leftovers": false,
+      "tags": [
+        "korean",
+        "side-dish",
+        "healthy"
+      ],
+      "difficulty": "easy",
+      "time": "15 minutes",
+      "servings": 2
+    },
+    {
+      "id": "fusion_001",
+      "name": "Kimchi Pasta",
+      "description": "Korean-Italian fusion using kimchi and pasta",
+      "ingredients": [
+        "pasta",
+        "kimchi",
+        "bacon or spam",
+        "cream",
+        "parmesan",
+        "garlic"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "fusion",
+        "creative",
+        "east-meets-west"
+      ],
+      "difficulty": "medium",
+      "time": "25 minutes",
+      "servings": 2
+    },
+    {
+      "id": "kr_006",
+      "name": "잔반 김밥 (Leftover Kimbap)",
+      "description": "Korean rice rolls using whatever leftovers you have",
+      "ingredients": [
+        "rice",
+        "seaweed sheets",
+        "any leftover meat",
+        "pickled radish",
+        "vegetables"
+      ],
+      "suitable_for_leftovers": true,
+      "tags": [
+        "korean",
+        "portable",
+        "lunch"
+      ],
+      "difficulty": "medium",
+      "time": "30 minutes",
+      "servings": 3
+    }
+  ],
+  "ingredient_categories": {
+    "vegetables": [
+      "kimchi",
+      "onions",
+      "green onions",
+      "garlic",
+      "carrots",
+      "spinach"
+    ],
+    "proteins": [
+      "eggs",
+      "chicken",
+      "spam",
+      "sausage",
+      "bacon",
+      "tofu"
+    ],
+    "grains": [
+      "rice",
+      "pasta",
+      "ramen noodles",
+      "bread"
+    ],
+    "dairy": [
+      "milk",
+      "cheese",
+      "cream",
+      "parmesan"
+    ],
+    "condiments": [
+      "soy sauce",
+      "sesame oil",
+      "mirin",
+      "gochugaru",
+      "salt",
+      "pepper"
+    ],
+    "leftovers": [
+      "leftover pizza",
+      "leftover chicken",
+      "leftover ramen",
+      "leftover rice"
+    ]
+  },
+  "common_substitutions": {
+    "mirin": "sugar + rice vinegar",
+    "gochugaru": "red pepper flakes",
+    "dashi": "chicken broth",
+    "sesame oil": "vegetable oil + sesame seeds",
+    "spam": "ham or sausage",
+    "kimchi": "sauerkraut + chili flakes"
+  }
+}
