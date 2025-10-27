@@ -9,8 +9,10 @@
 
 ## 시연 영상
 
+### **재료 텍스트 입력 → 메뉴 추천 → 시각적 레시피 생성 → 히스토리 저장**
+![ArmyStew_video](https://github.com/user-attachments/assets/b38454bb-7c2e-4d9c-b243-e524e09ca3b0)
 
-### ** 재료 이미지로 입력 → 메뉴 추천 → 히스토리 저장**
+### **재료 이미지로 입력 → 메뉴 추천 → 히스토리 저장**
 
 ![Bulgogi_video](https://github.com/user-attachments/assets/81feab2e-6acf-452e-8ba1-e2c0aa989b5e)
 
