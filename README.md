@@ -5,6 +5,20 @@
 - RAG: LangChain + FAISS (로컬 벡터스토어)
 - UI: Streamlit
 
+
+
+## 시연 영상
+
+
+### **1) OpenAI API key 입력 → 재료 텍스트로 입력 → 메뉴 추천 → 시각적 레시피 생성 → 히스토리 저장**
+
+
+### **2) 재료 이미지로 입력 → 메뉴 추천 → 히스토리 저장**
+
+https://github.com/user-attachments/assets/245acec2-4168-4b0c-91e6-af6a3b0428e8
+
+
+
 ## 1) 사전 준비
 
 ### 필수 설치
